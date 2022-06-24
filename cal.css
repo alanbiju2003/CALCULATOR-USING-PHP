@@ -1,0 +1,74 @@
+* {
+  /* background-color: #ffdee9; */
+  background-image: linear-gradient(165deg, #ffdee9 0%, #b5fffc 100%);
+}
+
+.formbox form {
+  border: solid 2px black;
+  border-radius: 55px;
+  height: 450px;
+
+  background-color: #ffe53b;
+  background-image: linear-gradient(127deg, #ffe53b 0%, #ff2525 74%);
+}
+
+.heading {
+  margin-top: 30px;
+  border-radius: 55px;
+  text-align: center;
+  background: none;
+  color: black;
+  text-decoration: underline;
+  font-weight: bolder;
+  font-size: 25px;
+}
+
+.formbox {
+  position: absolute;
+  left: 20%;
+  top: 20%;
+  width: 50%;
+  text-align: center;
+}
+
+.selectoperator {
+  background: none;
+  border-radius: 55px;
+}
+
+.textboxnum {
+  background: none;
+  font-size: 20px;
+  padding-top: 25px;
+}
+
+.textboxnum input {
+  color: black;
+  background-color: black;
+  border: solid 5px black;
+}
+
+.selectoperator select {
+  border: solid rgb(0, 0, 0) 5px;
+}
+
+.calculates {
+  background: none;
+}
+
+.calculates input {
+  border: rgb(149, 255, 168) 5px solid;
+  font-size: 15px;
+}
+
+.answerp {
+  border: solid 2px black;
+  margin-top: 25px;
+  border-radius: 55px;
+}
+
+.answerp p {
+  border-radius: 55px;
+  font-size: 25px;
+  height: 20px;
+}
